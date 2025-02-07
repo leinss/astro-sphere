@@ -7,8 +7,8 @@ import solidJs from "@astrojs/solid-js"
 // https://astro.build/config
 export default defineConfig({
   // site: "https://astro-sphere-demo.vercel.app",
-  site: "https://leinss.github.io/astro-sphere/",
-  base: "/astro-sphere/",
+  site: "https://leinss.github.io",
+  base: "/astro-sphere",
   integrations: [
     mdx(),
     sitemap(),
